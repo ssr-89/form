@@ -1,0 +1,6 @@
+[*]
+charset = utf-8 /*кодировка для браузеров*/
+indent_style = space /*пробелы для отступов*/
+indent_size = 2 /*отступ равен 2 пробелам*/
+insert_final_newline = false
+trim_trailing_whitespace = true /*подрезание ненужных пробелов*/
